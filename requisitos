@@ -1,4 +1,4 @@
-solemar - comidas tipicas
+solemar - comidas tipicas brasileiras
 
 - pagina para divulgação de eventos, cardapio e reserva de mesas / sistema de gestão de reservas / menus
 
@@ -26,12 +26,14 @@ solemar - comidas tipicas
 
 - carrocel com show e prato dia.
 
-- criar campo com todos os pratos do menu
+- criar campo com todos os pratos do menu (aba nossos produtos)
 
-- abas superiores com home, nossos produtos, reservas (nao incluir shows / eventos), delivery (encaminha para página do ifood).
+- abas superiores com home, nossos produtos, reservas (nao incluir shows / eventos), delivery (página com botao que inclui msg para finalizar o pedido no ifood).
 
-- para efetivar a reserva, precisa ser cliente cadastrado.
+- para efetivar a reserva, precisa ser cliente cadastrado. Dados de cadastro: nome completo e email. Possibilidade de logar com contas do google, instagram, facebook, etc
 
-- não impedir reservas para dia de shows / eventos
+- não impedir reservas para dia de shows / eventos.
 
 - footer com fale conosco, whats, telefone, email incluir redes sociais da empresa (apenas logo instagram, facebook, tiktok, youtube)
+
+desenvolver logotipo com base no nome da empresa.
