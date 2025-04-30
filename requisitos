@@ -1,0 +1,37 @@
+solemar - comidas tipicas
+
+- pagina para divulgação de eventos, cardapio e reserva de mesas / sistema de gestão de reservas / menus
+
+- reserva de mesas: data, horario, qtd pessoas, informar se é um evento (opcional), nome, telefone, email, data nascimento, genero (masculino, feminino / outros).
+
+* evento (opcional) > lista de eventos pré programada: aniversario, casamento, confraternização de empresas, etc.
+
+-na landing não haverá informação de preço, apenas o menu
+
+- lembrete da reserva (whats)
+
+- confirmação da reserva (whats)
+
+- cardapios do dia que sejam cadastrados e possam ser alterados caso necessário
+
+- trabalhar com dois perfis: adm e usuário
+
+- adm: administrar usuários, administrar pratos, verificar a agenda de reservas, cadastrar eventos / musicos, genero musical
+
+- usuario comum: cadastrar /inativar pratos. subir / retirar pratos menu site. administrar reservas feitas no local / ligação, etc. ter acesso a todas as reservas para confirmar a presença.
+
+--- identidade visual
+
+- header azul (teste de cor), bg: branco, amarelo para demais elementos. fontes (teste de cor e tipagem)
+
+- carrocel com show e prato dia.
+
+- criar campo com todos os pratos do menu
+
+- abas superiores com home, nossos produtos, reservas (nao incluir shows / eventos), delivery (encaminha para página do ifood).
+
+- para efetivar a reserva, precisa ser cliente cadastrado.
+
+- não impedir reservas para dia de shows / eventos
+
+- footer com fale conosco, whats, telefone, email incluir redes sociais da empresa (apenas logo instagram, facebook, tiktok, youtube)
