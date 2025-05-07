@@ -1,30 +1,40 @@
 solemar - comidas tipicas brasileiras
 
-- pagina para divulgação de eventos, cardapio e reserva de mesas / sistema de gestão de reservas / menus
+- pagina para divulgação de eventos, cardapio e reserva de mesas / sistema de gestão de reservas / menus para integração  / gestão com o site
 
-- reserva de mesas: data, horario, qtd pessoas, informar se é um evento (opcional), nome, telefone, email, data nascimento, genero (masculino, feminino / outros).
+- controle de espera para clientes que não reservaram antecipadamente.
+
+- reserva de mesas: data, horario, qtd pessoas, informar se é um evento (opcional), nome, telefone, email, data nascimento, genero (masculino, feminino / outros). – informar se criança ou portador de necessidade especial. Pagamento de taxa de reserva de R$ 20,00 que será creditada no valor de consumo ou entrará como taxa de cancelamento.
 
 * evento (opcional) > lista de eventos pré programada: aniversario, casamento, confraternização de empresas, etc.
 
--na landing não haverá informação de preço, apenas o menu
+-na landing não haverá informação de preço, apenas o menu com as informações sobre os shows
 
-- lembrete da reserva (whats)
+- alerta para taxa de cancelamento no momento da reserva. Valor de R$ 20,00
 
-- confirmação da reserva (whats)
+- cancelamento de reserva – sem taxa até 24h antes da data agendada
+
+- lembrete da reserva (whats) – 48h antes da data agendada
+
+- alerta de que caso seja feita a reserva em 48h ou menos, poderá não ter tempo para cancelar e ter a taxa reembolsada
+
+- confirmação da reserva (whats) – no mesmo dia / instante
 
 - cardapios do dia que sejam cadastrados e possam ser alterados caso necessário
 
+- pratos do menu: abaixo do carrossel – separados por tipos: bebidas, entradas, sobremesas, etc.
+
 - trabalhar com dois perfis: adm e usuário
 
-- adm: administrar usuários, administrar pratos, verificar a agenda de reservas, cadastrar eventos / musicos, genero musical
+- adm: administrar usuários, administrar pratos, verificar a agenda de reservas, cadastrar eventos / musicos, genero musical. Dashboard com taxas de reservas ativas, taxas que não serão devolvidas (cliente não compareceu), log de usuários
 
 - usuario comum: cadastrar /inativar pratos. subir / retirar pratos menu site. administrar reservas feitas no local / ligação, etc. ter acesso a todas as reservas para confirmar a presença.
 
---- identidade visual
+--- identidade visual: 
 
 - header azul (teste de cor), bg: branco, amarelo para demais elementos. fontes (teste de cor e tipagem)
 
-- carrocel com show e prato dia.
+- carrossel com show e prato dia.
 
 - criar campo com todos os pratos do menu (aba nossos produtos)
 
